@@ -2,7 +2,7 @@
   "dependencies": {
     "com.meta.xr.mrutilitykit": "207.0.0",
     "com.meta.xr.sdk.core": "207.0.0",
-    "com.tacc.datamanager": "https://github.com/GregAbram/DataManager.git?path=unity/com.tacc.datamanager#eeff94684dd46d72f979e188dbf60c36760473bc",
+    "com.tacc.datamanager": "https://github.com/GregAbram/DataManager.git?path=unity/com.tacc.datamanager#b0099912f80f18384b08b50cc07b7786f6f0f119",
     "com.unity.feature.development": "1.0.2",
     "com.unity.inputsystem": "1.19.0",
     "com.unity.learn.iet-framework": "6.0.6",
@@ -61,6 +61,6 @@
     "edu.umn.cs.ivlab.newtonsoft.json.schema": "https://github.com/ivlab/JsonSchema-UnityPackage.git#b8eba458ca447c8d36c0815c296efe75a437c0d1",
     "edu.umn.cs.ivlab.objimport": "https://github.com/ivlab/OBJImport-UnityPackage.git#debe18e335440d71f640d5bebe73cc35aaadf760",
     "edu.umn.cs.ivlab.utilities": "https://github.com/ivlab/IVLab-Utilities-UnityPackage.git#df8148162411903ec2ab9b53a4be66b32776157f",
-    "tacc.unity.abrengine": "https://github.com/GregAbram/DataManager.git?path=abrengine#eeff94684dd46d72f979e188dbf60c36760473bc"
+    "tacc.unity.abrengine": "https://github.com/GregAbram/DataManager.git?path=abrengine#b0099912f80f18384b08b50cc07b7786f6f0f119"
   }
 }
