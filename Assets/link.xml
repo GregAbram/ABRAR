@@ -1,0 +1,10 @@
+<!-- ABR finds its impressions, state loaders and JSON converters by reflection. -->
+<linker>
+  <assembly fullname="IVLab.ABREngine.Runtime" preserve="all"/>
+  <assembly fullname="IVLab.Utilities.Runtime" preserve="all"/>
+  <assembly fullname="IVLab.OBJImport" preserve="all"/>
+  <assembly fullname="JsonDiffPatchDotNet" preserve="all"/>
+  <assembly fullname="Newtonsoft.Json" preserve="all"/>
+  <assembly fullname="Newtonsoft.Json.Schema" preserve="all"/>
+  <assembly fullname="DataManager.Runtime" preserve="all"/>
+</linker>
