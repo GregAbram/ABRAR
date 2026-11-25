@@ -97,7 +97,12 @@ public class ABRARDataManager : MonoBehaviour
         {
             if (!configCopied)
             {
+                var setUp = engine.Config.Schema != null;
                 engine.Config = Instantiate(engine.Config);   // not the project's asset
+                // The schema isn't serialized, so a copy made after the engine's
+                // Awake (the room went inactive before anchoring) lacks it; ABR then
+                // can't load any styled state. Set the copy up the same way.
+                if (setUp) engine.Config.Setup();
                 configCopied = true;
             }
             engine.Config.dataManager = options;
