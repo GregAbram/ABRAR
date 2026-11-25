@@ -28,11 +28,11 @@
       "url": "https://packages.unity.com"
     },
     "com.tacc.datamanager": {
-      "version": "https://github.com/GregAbram/DataManager.git?path=unity/com.tacc.datamanager#b2b01a4719720816dfed5146327f463472a76523",
+      "version": "https://github.com/GregAbram/DataManager.git?path=unity/com.tacc.datamanager#f42d738adc683485c8aeb4314c8bf93422e82b46",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b2b01a4719720816dfed5146327f463472a76523"
+      "hash": "f42d738adc683485c8aeb4314c8bf93422e82b46"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.10",
@@ -461,13 +461,13 @@
       "hash": "df8148162411903ec2ab9b53a4be66b32776157f"
     },
     "tacc.unity.abrengine": {
-      "version": "https://github.com/GregAbram/DataManager.git?path=abrengine#b2b01a4719720816dfed5146327f463472a76523",
+      "version": "https://github.com/GregAbram/DataManager.git?path=abrengine#f42d738adc683485c8aeb4314c8bf93422e82b46",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.textmeshpro": "2.1.6"
       },
-      "hash": "b2b01a4719720816dfed5146327f463472a76523"
+      "hash": "f42d738adc683485c8aeb4314c8bf93422e82b46"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
